@@ -34,8 +34,8 @@ ExpensePerStudent.csv is built using data from multiple sources.
 
 "St Olaf College"            
 
-### <u>”Total Expenses” is taken from Tax form 990 Part I Line 18 using the .xml formatted data available from ProPublica</u>
+### <u>”Total Expenses” is taken from Tax form 990 Part I Line 18 using the .xml formatted data [available from ProPublica](https://projects.propublica.org/nonprofits/organizations/410693960)</u>
 
-### <u>”Population” is taken from MNEnrollment.csv, which was derived from IPEDS</u>
+### <u>”Population” is taken from MNEnrollment.csv, which was derived from [IPEDS](https://nces.ed.gov/ipeds/datacenter/InstitutionByName.aspx)</u>
 
-### <u>”Tuition” is extracted from nationwide college data also provided by IPEDS and organized by academic year in the Tuition folder in the form “icYYYY_ay.csv”</u>
+### <u>”Tuition” is extracted from nationwide college data also provided by [IPEDS](https://nces.ed.gov/ipeds/datacenter/InstitutionByName.aspx) and organized by academic year in the Tuition folder in the form “icYYYY_ay.csv”</u>
